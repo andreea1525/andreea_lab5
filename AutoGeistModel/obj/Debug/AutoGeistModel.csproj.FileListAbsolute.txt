@@ -1,0 +1,13 @@
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll.config
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\AutoGeistModel.pdb
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\EntityFramework.dll
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\EntityFramework.xml
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.AssemblyReference.cache
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.CoreCompileInputs.cache
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\obj\Debug\AutoGeistModel.dll
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\obj\Debug\AutoGeistModel.pdb
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\AutoGeist.mdf
+D:\New folder\cs\Anderco_Iosif_lab5\AutoGeistModel\bin\Debug\AutoGeist_log.ldf
